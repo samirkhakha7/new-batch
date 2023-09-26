@@ -1,2 +1,3 @@
 # new-batch
-this is my first repositery.
+This is my first repositery.
+Author = samir khadka
